@@ -3,6 +3,6 @@
 @Injectable()
 export class MyService {
     constructor() {
-
+        console.log('test chut thoi');
     }
 }
