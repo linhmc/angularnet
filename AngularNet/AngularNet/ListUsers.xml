@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<Users>
+  <User>
+    <UserName>user4</UserName>
+    <Password>123</Password>
+    <FullName>Nguyễn Văn Bê</FullName>
+    <RoleID>4</RoleID>
+    <RoleName>Lãnh đạo đơn vị trực thuộc KTNN</RoleName>
+    <XMLPath>~/XMLFiles/QLHDKT/XDCB</XMLPath>
+  </User>
+  <!--Dành cho Tổng duyệt-->
+  <User>
+    <UserName>VTH_CB</UserName>
+    <Password>123</Password>
+    <FullName>Vũ Ngọc Minh</FullName>
+    <RoleID>VTH_CB</RoleID>
+    <RoleName>VTH_CB</RoleName>
+    <XMLPath>~/XMLFiles/QLHDKT/XDCB</XMLPath>
+  </User>
+  <User>
+    <UserName>VTH_LD</UserName>
+    <Password>123</Password>
+    <FullName>Nguyễn Văn An</FullName>
+    <RoleID>VTH_LD</RoleID>
+    <RoleName>VTH_LD</RoleName>
+    <XMLPath>~/XMLFiles/QLHDKT/XDCB</XMLPath>
+  </User>
+  <User>
+    <UserName>KTNN_CBDV</UserName>
+    <Password>123</Password>
+    <FullName>Phùng Diệu Linh</FullName>
+    <RoleID>KTNN_CBDV</RoleID>
+    <RoleName>KTNN_CBDV</RoleName>
+    <XMLPath>~/XMLFiles/QLHDKT/XDCB</XMLPath>
+  </User>
+  <User>
+    <UserName>KTNN_LDDV</UserName>
+    <Password>123</Password>
+    <FullName>Nguyễn Văn Bê</FullName>
+    <RoleID>KTNN_LDDV</RoleID>
+    <RoleName>KTNN_LDDV</RoleName>
+    <XMLPath>~/XMLFiles/QLHDKT/XDCB</XMLPath>
+  </User>
+  <User>
+    <UserName>KTNN_TKT</UserName>
+    <Password>123</Password>
+    <FullName>Mai Tấn Long</FullName>
+    <RoleID>KTNN_TKT</RoleID>
+    <RoleName>KTNN_TKT</RoleName>
+    <XMLPath>~/XMLFiles/QLHDKT/XDCB</XMLPath>
+  </User>
+  <User>
+    <UserName>KTV1</UserName>
+    <Password>123</Password>
+    <FullName>Nguyễn Thành Trung</FullName>
+    <RoleID>KTV1</RoleID>
+    <RoleName>KTV1</RoleName>
+    <XMLPath>~/XMLFiles/QLHDKT/XDCB</XMLPath>
+  </User>
+  <User>
+    <UserName>KTV_TD</UserName>
+    <Password>123</Password>
+    <FullName>Hoàng Thanh Minh</FullName>
+    <RoleID>KTV_TD</RoleID>
+    <RoleName>KTV_TD</RoleName>
+    <XMLPath>~/XMLFiles/QLHDKT/XDCB</XMLPath>
+  </User>
+  <User>
+    <UserName>KTV2</UserName>
+    <Password>123</Password>
+    <FullName>Nguyễn Hồng Nhung</FullName>
+    <RoleID>KTV2</RoleID>
+    <RoleName>KTV2</RoleName>
+    <XMLPath>~/XMLFiles/QLHDKT/XDCB</XMLPath>
+  </User>
+  <User>
+    <UserName>VPC_CB</UserName>
+    <Password>123</Password>
+    <FullName>Mai Chí Linh</FullName>
+    <RoleID>VPC_CB</RoleID>
+    <RoleName>VPC_CB</RoleName>
+    <XMLPath>~/XMLFiles/QLHDKT/XDCB</XMLPath>
+  </User>
+  <User>
+    <UserName>VCDKSCL_CB</UserName>
+    <Password>123</Password>
+    <FullName>Vương Khải Tuyền</FullName>
+    <RoleID>VCDKSCL_CB</RoleID>
+    <RoleName>VCDKSCL_CB</RoleName>
+    <XMLPath>~/XMLFiles/QLHDKT/XDCB</XMLPath>
+  </User>
+  <User>
+    <UserName>VTCCB_CB</UserName>
+    <Password>123</Password>
+    <FullName>Nguyễn Hà Ninh</FullName>
+    <RoleID>VTCCB_CB</RoleID>
+    <RoleName>VTCCB_CB</RoleName>
+    <XMLPath>~/XMLFiles/QLHDKT/XDCB</XMLPath>
+  </User>
+</Users>
